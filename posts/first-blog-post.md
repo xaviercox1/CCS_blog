@@ -4,7 +4,7 @@ published_at: 2024-03-06
 snippet: This is my first blog post.
 ---
 
-(/0603/methodic c.png)
+![A vinyl](/0603/methodicc.png)
 
 # Welcome 🤗
 
