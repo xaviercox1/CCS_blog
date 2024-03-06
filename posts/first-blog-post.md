@@ -9,7 +9,7 @@ disable_html_sanitization: true
 
 <iframe src="https://editor.p5js.org/xaviercox1/full/xbgMQaOkS" width="100%" Height="642px"></iframe>
 
-<iframe src=/0603/Screenshot.png>
+<iframe src=/0603/Screenshot.png width=100% hight=100%>
 
 ## This is h2
 
