@@ -4,7 +4,7 @@ published_at: 2024-03-06
 snippet: This is my first blog post.
 ---
 
-Hello, world!
+Welcome 🤗
 
 # This is h1
 
