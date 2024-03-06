@@ -1,14 +1,15 @@
 ---
-title: First Class
+title: Week 1
 published_at: 2024-03-06
-snippet: This is my first blog post.
+snippet: Homework from week 1, p5 grid, Rafaël Rozendaal artwork
 disable_html_sanitization: true
 ---
-<iframe src="https://editor.p5js.org/xaviercox1/full/xbgMQaOkS" width="100%" Height="242px"></iframe>
-
-![IM TIRED!!!!](/0603/homeless-man-sleeping-on-street-silhouette-vector-36153104.jpg)
-
 # Welcome 🤗
+## P5 Repeating Grid
+
+<iframe src="https://editor.p5js.org/xaviercox1/full/xbgMQaOkS" width="100%" Height="642px"></iframe>
+
+<iframe src=/0603/Screenshot.png>
 
 ## This is h2
 
