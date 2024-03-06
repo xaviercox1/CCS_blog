@@ -4,9 +4,9 @@ published_at: 2024-03-06
 snippet: This is my first blog post.
 ---
 
-Welcome 🤗
+(/0603/methodic c.png)
 
-# This is h1
+# Welcome 🤗
 
 ## This is h2
 
