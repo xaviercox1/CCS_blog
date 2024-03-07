@@ -9,6 +9,8 @@ disable_html_sanitization: true
 
 <iframe src="https://editor.p5js.org/xaviercox1/full/xbgMQaOkS" width="100%" Height="642px"></iframe>
 
+To create a secondary repeting layer which acts on the y axis, I duplicated the line of code which created the x repetition. However, I created new variables which will be used for the y. Then in the squares y postion I used the same phrase to have the same repeating effect
+
 <img src=/0603/Screenshot.png></img>
 
 ## This is h2
