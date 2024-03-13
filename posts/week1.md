@@ -13,8 +13,6 @@ To create a secondary repeting layer which acts on the y axis, I duplicated the 
 
 <img src=/0603/Screenshot.png></img>
 
-## This is h2
+## Rafaël Rozendaal Artwork
 
-_underline_
 
-**bold**
