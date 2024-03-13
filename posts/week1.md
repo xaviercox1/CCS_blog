@@ -15,4 +15,11 @@ To create a secondary repeting layer which acts on the y axis, I duplicated the 
 
 ## Rafaël Rozendaal Artwork
 
+<iframe id="pink_blob" src="https://editor.p5js.org/capogreco/full/qLnXZ2PBK"></iframe>
+
+<script type="module">
+  const iframe = document.getElementById (`pink_blob`)
+  iframe.width  = iframe.parentNode.scrollWidth
+  iframe.height = iframe.parentNode.scrollWidth + 42
+</script>
 
